@@ -1,7 +1,7 @@
 # responsividade-mobile-desktop
 
 ## Sobre o projeto
-![preview](.github/preview.png)
+![preview](.images/preview.png)
 
 Este projeto consiste em uma interface web simples, construída como parte da trilha Explorer oferecida pela Rocketseat.
 O objetivo principal é abordar conceitos fundamentais de responsividade para diferentes telas de dispositivos móveis.
@@ -16,8 +16,8 @@ Conceitos aplicados
 ## Layout do projeto
 <table>
   <tr>
-    <td><img src=".github/desktop.png"></td>
-    <td><img src=".github/mobile.png"></td>
+    <td><img src=".images/desktop.png"></td>
+    <td><img src=".images/mobile.png"></td>
   </tr>
 </table>
 
