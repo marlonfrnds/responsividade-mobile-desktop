@@ -16,8 +16,8 @@ Conceitos aplicados
 ## Layout do projeto
 <table>
   <tr>
-    <td><img src=".images/desktop.png"></td>
-    <td><img src=".images/mobile.png"></td>
+    <td><img src="images/desktop.png"></td>
+    <td><img src="images/mobile.png"></td>
   </tr>
 </table>
 
